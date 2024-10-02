@@ -1,4 +1,7 @@
-# detect_machine_learning
+## PROJECT TEAM
+
+- Ammmar Abdulkareem Mohammed Daer (202174057)
+- Osamah Abdulbaqi Esmael Abdullah (202174216)
 
 ## Overview
 
