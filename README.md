@@ -52,7 +52,13 @@ This code is a basic demonstration of using a pre-trained YOLO model to recogniz
 ## Images
 
 - **Accuracy**:  
-  ![Accuracy](images/1.PNG)
+     
+![Capture](https://github.com/user-attachments/assets/ec895f06-7afb-4d2f-86c0-b51dc97a2fb7)
 
 - **Size Distribution**:  
-  ![Size Distribution](images/2.PNG)
+ ![Capture](https://github.com/user-attachments/assets/4f40718e-2071-47c6-adb4-7736cede2c54)
+
+- **Histogram of Object Count by Image**:
+![Capture](https://github.com/user-attachments/assets/8307ae4f-e6c2-4185-af5e-5b98d58761eb)
+
+
