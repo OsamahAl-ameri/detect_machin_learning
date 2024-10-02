@@ -52,7 +52,7 @@ This code is a basic demonstration of using a pre-trained YOLO model to recogniz
 ## Images
 
 - **Accuracy**:  
-  ![Accuracy](images/1.png)
+  ![Accuracy](images/1.PNG)
 
 - **Size Distribution**:  
-  ![Size Distribution](images/2.png)
+  ![Size Distribution](images/2.PNG)
